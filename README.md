@@ -18,7 +18,9 @@
 
 <div style="display": inline_block><br>
 <img align="center" alt="Claudiane-Linkedin" height="30" with="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>  
-<img align="center" alt="Claudiane-Linkedin" height="30" with="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-<img align="center" alt="Claudiane-Linkedin" height="30" with="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+<img align="center" alt="Claudiane-CSS" height="30" with="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+<img align="center" alt="Claudiane-HTML" height="30" with="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+<img align="center" alt="Claudiane-GIT" height="30" with="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+<img align="center" alt="Claudiane-GITHUB" height="30" with="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
 </div>
           
