@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**Claudiane4/Claudiane4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-📝Cursando Sistema de Informação
 
-Here are some ideas to get you started:
+-💡Mentora do Projetor Leitor de Produtos Inteligentes/LPI: Visa auxiliar pessoas com perda parcial ou total da visão. URL: https://github.com/jefftorresx/LPI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-📩:contate-me por email:claudiane.dias1332@gmail.com
+
+###📊Estatística
+
+<div>
+  <a href="https:github.com/Claudiane4">
+  <img  height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Claudiane4&show_icons=true&theme=dracula&locale=pt-br"/>
+  </a>
+  <a href="https:github.com/Claudiane4">
+  <img  height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Claudiane4&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
+  </a>
+</div>
