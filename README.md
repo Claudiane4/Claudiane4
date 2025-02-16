@@ -24,6 +24,9 @@
 <img align="center" alt="Claudiane-GITHUB" height="30" with="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"/>
 </div>
 
+<br>
 📌Link
+<br>
 GitHub Readme Stats
-url:https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance
+<br>
+https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance
