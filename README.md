@@ -12,7 +12,7 @@
   <img  height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Claudiane4&show_icons=true&theme=dracula&locale=pt-br"/>
   </a>
   <a href="https:github.com/Claudiane4">
-  <img  height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Claudiane4&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Claudiane4&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
   </a>
 </div>
 
